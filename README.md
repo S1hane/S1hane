@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome 
 
-<!--
-**S1hane/S1hane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github page. 
 
-Here are some ideas to get you started:
+### Want to get in touch with me?
+<!-- LinkedIn Contact -->
+<a href="https://www.linkedin.com/in/S1hane/" target="_blank">
+  <img src="https://img.shields.io/badge/-SHANE%20LEMMER-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+  
+<!-- Email -->
+<a href="mailto:shane@shanelemmer.com">
+  <img src="https://img.shields.io/badge/EMAIL-shane@shanelemmer.com-d44638?style=for-the-badge"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please feel free to send your questions, comments through LinkedIn or email!
+
+
+[![S1hane's github stats](https://github-readme-stats.vercel.app/api?username=S1hane&count_private=true)](https://github.com/S1hane/github-readme-stats)
+
