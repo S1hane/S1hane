@@ -13,7 +13,7 @@ Welcome to my Github page.
   <img src="https://img.shields.io/badge/EMAIL-shane@shanelemmer.com-d44638?style=for-the-badge"/>
 </a>
 
-Please feel free to send your questions, comments through LinkedIn or email!
+Please feel free to send your questions or comments through LinkedIn or email!
 
 
 [![S1hane's github stats](https://github-readme-stats.vercel.app/api?username=S1hane&count_private=true)](https://github.com/S1hane/github-readme-stats)
